@@ -75,7 +75,7 @@ let li = document.createElement('li')
 ul.appendChild(li)
 
 
-for(let size =3;size<15;size++){
+for(let size =3;size<10;size++){
     let li = document.createElement('li')
     ul.appendChild(li)
     let a2 = document.createElement('a')
